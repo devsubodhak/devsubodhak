@@ -1,5 +1,11 @@
 ## Hi there 👋
+<p align="left">Hello World!!</p>
 
+###
+
+<img src="https://raw.githubusercontent.com/devsubodhak/devsubodhak/output/snake.svg" alt="Snake animation" />
+
+###
 <!--
 **devsubodhak/devsubodhak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
