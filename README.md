@@ -1,17 +1,8 @@
-<h1 align="center">Hi 👋! My name is SubodhaK and I am from Sri Lanka</h1>
+# 👋 Hi, I'm Subodha Kalhara!
 
-###
+I am a passionate **Information Systems** student at the Sabaragamuwa University of Sri Lanka and a multi-disciplinary professional. I thrive at the intersection of technology, education, and entrepreneurship.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devsubodhak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devsubodhak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDB4NHBsZDdqbDF5cG52dWRkMXV5aGc3eGFucjNnbnhpMzExems4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"  />
-
-###
+---
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -59,6 +50,10 @@
 
 ###
 
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDB4NHBsZDdqbDF5cG52dWRkMXV5aGc3eGFucjNnbnhpMzExems4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"  />
+
+###
+
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -72,14 +67,43 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/devsubodhak/devsubodhak/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=devsubodhak.devsubodhak&"  />
 </div>
 
 ###
+
+### 🚀 Quick Overview
+
+- 🎓 **Education:** Pursuing a BSc in Information Systems @ Sabaragamuwa University
+- 🏢 **Entrepreneurship:** Co-founder of **SolveSky LK** (Digital Marketing Startup)
+- 👨‍🏫 **Teaching:** Part-time educator in Science, Mathematics, and ICT
+- 🌍 **Location:** Sri Lanka 🇱🇰
+
+---
+
+### 🛠️ Skills & Expertise
+
+- **Development:** Web Development (Frontend & Backend) 💻
+- **Design:** Graphic Design & Video Editing 🎨
+- **Marketing:** Social Media Management & Digital Strategy 📈
+- **Education:** Mentoring and Knowledge Sharing 🧠
+
+---
+
+### 🔍 What Drives Me
+
+- **Insatiable Curiosity:** I am a lifelong learner who loves listening to expert discussions and speeches to stay ahead of the curve.
+- **Innovation:** While I appreciate my comfort zone, I am dedicated to pushing my boundaries and exploring new opportunities for growth.
+- **Growth:** Always seeking new ways to integrate technology with business and education.
+
+---
+
+### 📫 Let's Connect!
+
+- 💼 **Startup:** Connect with [SolveSky LK](www.facebook.com)
+- 🤝 **Collaboration:** I'm always open to discussing tech, education, and digital trends!
+
+---
+
+*“Constantly pushing boundaries and exploring new opportunities for growth and innovation.”*
