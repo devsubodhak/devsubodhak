@@ -76,7 +76,7 @@ I am a passionate **Information Systems** student at the Sabaragamuwa University
 ### 🚀 Quick Overview
 
 - 🎓 **Education:** Pursuing a BSc in Information Systems @ Sabaragamuwa University
-- 🏢 **Entrepreneurship:** Co-founder of **SolveSky LK** (Digital Marketing Startup)
+- 🏢 **Entrepreneurship:** Co-founder of **UniverzLK** (Digital Marketing Startup)
 - 👨‍🏫 **Teaching:** Part-time educator in Science, Mathematics, and ICT
 - 🌍 **Location:** Sri Lanka 🇱🇰
 
